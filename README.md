@@ -9,3 +9,7 @@ DeepFake audio can be categorized into three major categories synthetic voice, c
 
 **Video Presentation**: Youtube Video link for the presentation https://youtu.be/OK32PdY5P4k
 
+**ML2_ASV**: Codes for the implementation of the project.
+
+**Deepfake Audio Detection**: The research paper which includes all the study done to develop this project.
+
